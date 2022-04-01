@@ -23,7 +23,7 @@
 ---
 
 
-![image_name](goal_outcomes.png)
+![image_name](Picture1.png)
 
 
 ---
@@ -32,4 +32,4 @@
 ---
 
 
-![image_name](launch_outcomes.png)
+![image_name](Picture1.png)
