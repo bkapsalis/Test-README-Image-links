@@ -9,6 +9,12 @@
 - Bullet point number-2
 
 
+* Bullet list
+  * Nested bullet
+   * Sub-nested bullet etc
+  * Bullet list item 2
+
+
 ![image_name](20220302_164813.jpg)
 
 
