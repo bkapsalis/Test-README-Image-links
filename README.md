@@ -1,4 +1,4 @@
-# An Analysis of Kickstarter Campaigns
+# How to add pictures to README.md
 
 
 * Bullet point asterisk
