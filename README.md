@@ -5,13 +5,13 @@
 * Bullet point asterisk-2
 
 
-- Bullet point number
-- Bullet point number-2
+- Bullet point dash
+- Bullet point dash-2
 
 
 * Bullet list
   * Nested bullet
-   * Sub-nested bullet etc
+      * Sub-nested bullet etc
 * Bullet list item 2
 
 
